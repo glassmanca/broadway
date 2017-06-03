@@ -1,0 +1,13 @@
+body{
+  font-family: helvetica;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#home{
+  background-image: url("./images/flatiron.png")
+}
