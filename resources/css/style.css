@@ -1,5 +1,6 @@
 body{
   font-family: helvetica;
+  text-align: center;
 }
 
 h1{
@@ -9,5 +10,34 @@ h1{
 }
 
 #home{
-  background-image: url("./images/flatiron.png")
+  background-image: url("../images/flatiron.png");
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+
+.break{
+  color: white;
+  background-image: url("../images/flatiron.png");
+}
+
+#footer{
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+.copyright{
+  font-size: 11px;
 }
