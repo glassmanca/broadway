@@ -9,13 +9,16 @@ h1{
   color: white;
 }
 
-h4{
+h4, a{
   font-size: 18px;
   color: white;
 }
 
 #home{
   background-image: url("../images/flatiron.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 h2{
@@ -35,6 +38,9 @@ p{
 .break{
   color: white;
   background-image: url("../images/flatiron.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 #footer{
