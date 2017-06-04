@@ -35,10 +35,9 @@ p{
   font-size: 14px;
 }
 
-.break{
+#break{
   color: white;
   background-image: url("../images/flatiron.png");
-  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
